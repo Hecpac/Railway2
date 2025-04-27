@@ -1,5 +1,5 @@
 # n8n self‑hosted with LangChain community nodes
-FROM n8nio/n8n:1.38.1
+FROM n8nio/n8n:1.38.2
 
 USER root
 RUN apk add --no-cache git
