@@ -1,0 +1,1 @@
+Quick repo for n8n + LangChain nodes. See Dockerfile.
